@@ -25,11 +25,12 @@
   margin-top: 81px;
 }
 .studentCnt{
-  width: 260px;
+  width: 20%;
   background-color: #ffffff;
   box-shadow: 0 10px 40px 0 rgba(29, 29, 31, 0.06);
   margin: 40px;
   padding: 10px;
+  float: left
 }
 .blockCnt{
   display: flex;
